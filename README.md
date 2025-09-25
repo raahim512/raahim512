@@ -14,6 +14,8 @@ My name's Raahim. I'm a self taught developer and OS enthusiast with a passion f
 
 That's all for now, I'll launch a portfolio soon to get everything sorted and nice looking. See you soon!
 
+PS! I'm mostly anti-AI when it comes to progrmaming or anything in general. I'm fascinated by the tech, but definitely wouldn't use it for something like this. I hope this statement makes me feel more legit!
+
 <!--
 **raahim512/raahim512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
